@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLZsR6EpSyQCvJ1wCiKsGUXn/U2J8eH8oQbmWOCk8OtFzumMMAics+/Ij3IlprRewvQqXLUOhoVDSW+dkzolCA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\RabbitMQTutorial\\QueueExample\\QueueExample.Consumer\\QueueExample.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vahid\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\vahid\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
